@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  17 MAY 2018 21:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  17 MAY 2018 21:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -997,28 +997,17 @@ Overfull \hbox (16.96924pt too wide) in paragraph at lines 180--180
 
 ] [29
 
-]
+] [30
 
-LaTeX Warning: File `./parfit.png' not found on input line 428.
+] <./parfit.png, id=221, 942.52126pt x 728.7225pt>
+File: ./parfit.png Graphic file (type png)
 
+<use ./parfit.png>
+Package pdftex.def Info: ./parfit.png used on input line 443.
+(pdftex.def)             Requested size: 282.75856pt x 218.61844pt.
+ [31
 
-! Package pdftex.def Error: File `./parfit.png' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.428 \end{frame}
-                 
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[30
-
-] [31
-
-] [32
+ <./parfit.png (PNG copy)>] [32
 
 ] [33
 
@@ -1028,7 +1017,8 @@ If that doesn't work, type  X <return>  to quit.
 
 ] [36
 
-] [37
+]
+[37
 
 ] [38
 
@@ -1042,6 +1032,8 @@ If that doesn't work, type  X <return>  to quit.
 
 ] [43
 
+] [44
+
 ]
 \tf@nav=\write6
 \openout6 = `nt-01-narrative.nav'.
@@ -1052,12 +1044,11 @@ If that doesn't work, type  X <return>  to quit.
 \tf@snm=\write8
 \openout8 = `nt-01-narrative.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 599.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 599.
-
-(./nt-01-narrative.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 599.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 599.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 614.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 614.
+ (./nt-01-narrative.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 614.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 614.
 Package rerunfilecheck Info: File `nt-01-narrative.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1065,13 +1056,13 @@ Package rerunfilecheck Info: File `nt-01-narrative.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 599.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 614.
  ) 
 Here is how much of TeX's memory you used:
- 17045 strings out of 493029
- 327549 string characters out of 6136234
+ 17053 strings out of 493029
+ 327655 string characters out of 6136234
  397928 words of memory out of 5000000
- 20083 multiletter control sequences out of 15000+600000
+ 20089 multiletter control sequences out of 15000+600000
  10914 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,72p,419b,541s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1082,10 +1073,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on nt-01-narrative.pdf (43 pages, 136344 bytes).
+Output written on nt-01-narrative.pdf (44 pages, 193722 bytes).
 PDF statistics:
- 349 PDF objects out of 1000 (max. 8388607)
- 280 compressed objects within 3 object streams
- 87 named destinations out of 1000 (max. 500000)
- 85 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 356 PDF objects out of 1000 (max. 8388607)
+ 285 compressed objects within 3 object streams
+ 89 named destinations out of 1000 (max. 500000)
+ 90 words of extra memory for PDF output out of 10000 (max. 10000000)
 
