@@ -1,0 +1,78 @@
+% nt-01-narrative.tex
+
+\documentclass[xcolor=dvipsnames]{beamer}
+\usepackage{teachbeamer}
+
+\title{Narrative Identity}
+\subtitle{{\CourseNumber}, {\CourseInst}}
+
+\author{\CourseName}
+
+\date{May 22, 2018}
+
+\begin{document}
+
+\begin{frame}
+  \titlepage
+\end{frame}
+
+\begin{frame}
+  \frametitle{iClicker Question}
+Choose from the following options. This item will be graded.
+\begin{block}{iClicker Question}
+[4724] What is the cornerstone of existentialism?
+\end{block}
+\begin{description}
+\item[A\hspace{.2in}$\blacktriangleright$] man's existence is more firmly established than God's existence
+\item[B\hspace{.2in}$\blacktriangleright$] existence precedes essence
+\item[C\hspace{.2in}$\blacktriangleright$] man is not free but bound to his existence
+\item[D\hspace{.2in}$\blacktriangleright$] everything is morally permissible
+\end{description}
+\end{frame}
+
+\begin{frame}
+  \frametitle{iClicker Question}
+Choose from the following options. This item will be graded.
+\begin{block}{iClicker Question}
+[1387] Which of these are not part of a Sartre illustration in his paper?
+\end{block}
+\begin{description}
+\item[A\hspace{.2in}$\blacktriangleright$] joining the resistance or staying with one's mother
+\item[B\hspace{.2in}$\blacktriangleright$] the picture of Dorian Gray
+\item[C\hspace{.2in}$\blacktriangleright$] a man who becomes a Jesuit after many setbacks in life
+\item[D\hspace{.2in}$\blacktriangleright$] joining a Christian or a Communist trade union
+\end{description}
+\end{frame}
+
+\begin{frame}
+  \frametitle{iClicker Question}
+Choose from the following options. This item will be graded.
+\begin{block}{iClicker Question}
+[4435] Which one of these is a core moral dilemma in Charles Taylor's essay
+``What Is Human Agency?''?
+\end{block}
+\begin{description}
+\item[A\hspace{.2in}$\blacktriangleright$] legalizing abortion vs valuing human life
+\item[B\hspace{.2in}$\blacktriangleright$] eating organic local food vs giving to charity
+\item[C\hspace{.2in}$\blacktriangleright$] persisting in an academic job vs moving to Nepal
+\item[D\hspace{.2in}$\blacktriangleright$] keeping one healthy person alive vs having five sick patients die
+\end{description}
+\end{frame}
+
+\begin{frame}
+  \frametitle{iClicker Question}
+Choose from the following options. This item will be graded.
+\begin{block}{iClicker Question}
+[3878] Which of these contrast pairs is not a distinction found in Charles
+Taylor's paper?
+\end{block}
+\begin{description}
+\item[A\hspace{.2in}$\blacktriangleright$] internalist and externalist evaluation
+\item[B\hspace{.2in}$\blacktriangleright$] first and second order desires
+\item[C\hspace{.2in}$\blacktriangleright$] qualitative and quantitative evaluation
+\item[D\hspace{.2in}$\blacktriangleright$] weak and strong evaluation
+\end{description}
+\end{frame}
+
+
+\end{document}
