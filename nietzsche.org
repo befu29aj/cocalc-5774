@@ -66,6 +66,7 @@ Nietzsche and Marx
 
 Nietzsche and Freud
 * Nietzsche Readings
+** notes
 Daybreak, book 1, 2, 3
 
 Human, All Too Human, book 1 (up to 53 inclusive); book 3 is short,
@@ -76,6 +77,8 @@ Gay Science
 Genealogy of Morals book 1, 2
 
 Beyond Good and Evil
+** Human, All Too Human
+preface, book 1 (up to 53 inclusive)
 * potential nietzsche paper
 ** astrology
 [Friedrich Nietzsche and David Short: never hesitate to pronounce the
