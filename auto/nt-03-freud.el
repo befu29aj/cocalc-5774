@@ -1,5 +1,5 @@
 (TeX-add-style-hook
- "nt-02-existentialism"
+ "nt-03-freud"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("beamer" "xcolor=dvipsnames")))
@@ -7,7 +7,5 @@
     "latex2e"
     "beamer"
     "beamer10"
-    "teachbeamer")
-   (LaTeX-add-labels
-    "eq:paumatae")))
+    "teachbeamer")))
 
