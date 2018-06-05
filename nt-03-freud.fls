@@ -314,6 +314,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmss
 INPUT ./3D-vector-field.png
 INPUT ./3D-vector-field.png
 INPUT ./3D-vector-field.png
+INPUT ./janaway-nietzsche-guilt.png
+INPUT ./janaway-nietzsche-guilt.png
+INPUT ./janaway-nietzsche-guilt.png
 OUTPUT nt-03-freud.nav
 OUTPUT nt-03-freud.toc
 OUTPUT nt-03-freud.snm

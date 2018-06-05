@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1528228448 "nt-03-freud.tex" "nt-03-freud.pdf" "nt-03-freud" 1528228449
+["pdflatex"] 1528233451 "nt-03-freud.tex" "nt-03-freud.pdf" "nt-03-freud" 1528233452
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -182,16 +182,17 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1506161354 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1506161382 3853855 dd36e9f5f71c93ae6ae957293c5815c4 ""
   "3D-vector-field.png" 1528153375 23829 7ee379cfee1fb9bb0af45ef25e2cb110 ""
-  "nt-03-freud.aux" 1528228448 4239 7990257a5c2d3afc314f7f9bdae9338d ""
-  "nt-03-freud.nav" 1528228448 2450 18fff07ea04d7e6165321ef5c2e657be ""
-  "nt-03-freud.out" 1528228448 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "nt-03-freud.tex" 1528228447 19291 ee161f126b54a9d72e2f434de6daa953 ""
+  "janaway-nietzsche-guilt.png" 1528233449 36571 0b4d36c35036cc8fa4b97dce5d696886 ""
+  "nt-03-freud.aux" 1528233452 5400 a3cdfbd30b6aca4942ebda1950c5f554 ""
+  "nt-03-freud.nav" 1528233452 3287 b8c268c9d45250ebefbedd71cd50e2d7 ""
+  "nt-03-freud.out" 1528233451 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "nt-03-freud.tex" 1528233449 24133 53bcf613a4494fa59a29ccf97c8b52b1 ""
   "teachbeamer.sty" 1526408317 868 27817204a41db3cee0a63c897edc491a ""
   (generated)
-  "nt-03-freud.snm"
-  "nt-03-freud.pdf"
-  "nt-03-freud.out"
-  "nt-03-freud.toc"
-  "nt-03-freud.aux"
   "nt-03-freud.log"
   "nt-03-freud.nav"
+  "nt-03-freud.out"
+  "nt-03-freud.pdf"
+  "nt-03-freud.aux"
+  "nt-03-freud.toc"
+  "nt-03-freud.snm"

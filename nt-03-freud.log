@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  5 JUN 2018 19:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  5 JUN 2018 21:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -988,7 +988,41 @@ Package pdftex.def Info: ./3D-vector-field.png used on input line 402.
 
 ] [24
 
+] [25
+
+] [26
+
+] [27
+
+] [28
+
+] [29
+
+] [30
+
+] [31
+
+] [32
+
 ]
+<./janaway-nietzsche-guilt.png, id=237, 1023.825pt x 678.535pt>
+File: ./janaway-nietzsche-guilt.png Graphic file (type png)
+
+<use ./janaway-nietzsche-guilt.png>
+Package pdftex.def Info: ./janaway-nietzsche-guilt.png used on input line 608.
+(pdftex.def)             Requested size: 1023.8225pt x 678.53334pt.
+
+Overfull \hbox (716.53262pt too wide) in paragraph at lines 608--608
+ [] 
+ []
+
+
+Overfull \vbox (470.59094pt too high) detected at line 608
+ []
+
+[33
+
+ <./janaway-nietzsche-guilt.png>]
 \tf@nav=\write6
 \openout6 = `nt-03-freud.nav'.
 
@@ -998,11 +1032,11 @@ Package pdftex.def Info: ./3D-vector-field.png used on input line 402.
 \tf@snm=\write8
 \openout8 = `nt-03-freud.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 493.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 493.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 610.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 610.
  (./nt-03-freud.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 493.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 493.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 610.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 610.
 Package rerunfilecheck Info: File `nt-03-freud.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1010,26 +1044,26 @@ Package rerunfilecheck Info: File `nt-03-freud.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 493.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 610.
  ) 
 Here is how much of TeX's memory you used:
- 16964 strings out of 493029
- 326685 string characters out of 6136234
- 393940 words of memory out of 5000000
- 20040 multiletter control sequences out of 15000+600000
+ 17042 strings out of 493029
+ 328242 string characters out of 6136234
+ 397940 words of memory out of 5000000
+ 20099 multiletter control sequences out of 15000+600000
  10746 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,16n,72p,415b,518s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,16n,72p,415b,541s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on nt-03-freud.pdf (24 pages, 112413 bytes).
+Output written on nt-03-freud.pdf (33 pages, 154169 bytes).
 PDF statistics:
- 218 PDF objects out of 1000 (max. 8388607)
- 169 compressed objects within 2 object streams
- 50 named destinations out of 1000 (max. 500000)
- 84 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 281 PDF objects out of 1000 (max. 8388607)
+ 220 compressed objects within 3 object streams
+ 68 named destinations out of 1000 (max. 500000)
+ 95 words of extra memory for PDF output out of 10000 (max. 10000000)
 
