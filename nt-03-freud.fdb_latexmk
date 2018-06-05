@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1528233648 "nt-03-freud.tex" "nt-03-freud.pdf" "nt-03-freud" 1528233649
+["pdflatex"] 1528233687 "nt-03-freud.tex" "nt-03-freud.pdf" "nt-03-freud" 1528233688
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -183,16 +183,16 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1506161382 3853855 dd36e9f5f71c93ae6ae957293c5815c4 ""
   "3D-vector-field.png" 1528153375 23829 7ee379cfee1fb9bb0af45ef25e2cb110 ""
   "janaway-nietzsche-guilt.png" 1528233449 36571 0b4d36c35036cc8fa4b97dce5d696886 ""
-  "nt-03-freud.aux" 1528233649 5400 a3cdfbd30b6aca4942ebda1950c5f554 ""
-  "nt-03-freud.nav" 1528233649 3287 b8c268c9d45250ebefbedd71cd50e2d7 ""
-  "nt-03-freud.out" 1528233648 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "nt-03-freud.tex" 1528233648 24135 e74223637833e5cec0b011eb1a06b319 ""
+  "nt-03-freud.aux" 1528233688 5400 a3cdfbd30b6aca4942ebda1950c5f554 ""
+  "nt-03-freud.nav" 1528233688 3287 b8c268c9d45250ebefbedd71cd50e2d7 ""
+  "nt-03-freud.out" 1528233688 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "nt-03-freud.tex" 1528233687 24135 3dfe6b67f04bb114447bff2175da5936 ""
   "teachbeamer.sty" 1526408317 868 27817204a41db3cee0a63c897edc491a ""
   (generated)
-  "nt-03-freud.pdf"
-  "nt-03-freud.aux"
-  "nt-03-freud.snm"
   "nt-03-freud.toc"
-  "nt-03-freud.out"
   "nt-03-freud.log"
   "nt-03-freud.nav"
+  "nt-03-freud.aux"
+  "nt-03-freud.pdf"
+  "nt-03-freud.snm"
+  "nt-03-freud.out"
