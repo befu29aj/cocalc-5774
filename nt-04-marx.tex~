@@ -17,66 +17,6 @@
 \end{frame}
 
 \begin{frame}
-  \frametitle{iClicker Question}
-Choose from the following options. This item will be graded.
-\begin{block}{iClicker Question}
-[3075] Which of these phrases occurs in the Manifesto?
-\end{block}
-\begin{description}
-% W. Churchill
-\item[A\hspace{.2in}$\blacktriangleright$] Success consists of going from failure to failure without loss of enthusiasm.
-% B. Sanders
-\item[B\hspace{.2in}$\blacktriangleright$] Let us wage a moral and political war against the billionaires and corporate leaders, whose policies and greed are destroying the middle class.
-% K. Marx
-\item[C\hspace{.2in}$\blacktriangleright$] Two great hostile camps facing each other: Bourgeoisie and Proletariat.
-% A. Lincoln
-\item[D\hspace{.2in}$\blacktriangleright$] Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
-\end{description}
-\end{frame}
-
-\begin{frame}
-  \frametitle{iClicker Question}
-Choose from the following options. This item will be graded.
-\begin{block}{iClicker Question}
-[7174] In which two cities did Karl Marx live because he was expelled from Germany on political grounds?
-\end{block}
-\begin{description}
-\item[A\hspace{.2in}$\blacktriangleright$] Prague and Moscow
-\item[B\hspace{.2in}$\blacktriangleright$] Madrid and Budapest
-\item[C\hspace{.2in}$\blacktriangleright$] Vienna and Rome
-\item[D\hspace{.2in}$\blacktriangleright$] London and Brussels
-\end{description}
-\end{frame}
-
-\begin{frame}
-  \frametitle{iClicker Question}
-Choose from the following options. This item will be graded.
-\begin{block}{iClicker Question}
-[3268] Who, according to R. Jay Wallace, are ``the contemporary successors to Nietzsche's ascetic priests''?
-\end{block}
-\begin{description}
-\item[A\hspace{.2in}$\blacktriangleright$] the populist politicians, preachers, and imams of revenge
-\item[B\hspace{.2in}$\blacktriangleright$] the new atheists
-\item[C\hspace{.2in}$\blacktriangleright$] the scientific elite: doctors and academics
-\item[D\hspace{.2in}$\blacktriangleright$] the billionaire class
-\end{description}
-\end{frame}
-
-\begin{frame}
-  \frametitle{iClicker Question}
-Choose from the following options. This item will be graded.
-\begin{block}{iClicker Question}
-[9839] Which two explanations of the slave revolt are in tension in R. Jay Wallace's paper?
-\end{block}
-\begin{description}
-\item[A\hspace{.2in}$\blacktriangleright$] the strategic and the expressive interpretation
-\item[B\hspace{.2in}$\blacktriangleright$] the minimalist and the maximalist interpretation
-\item[C\hspace{.2in}$\blacktriangleright$] the exogenous and the endogenous interpretation
-\item[D\hspace{.2in}$\blacktriangleright$] the hermeneutic and the scientific interpretation
-\end{description}
-\end{frame}
-
-\begin{frame}
   \frametitle{Some Terms}
   \begin{description}
   \item[dialectical materialism] materialism: explanation in terms of
@@ -91,6 +31,24 @@ Choose from the following options. This item will be graded.
   \item[bourgeoisie] the class between the aristocracy and the
     proletariat
   \end{description}
+\end{frame}
+
+\begin{frame}
+  \frametitle{iClicker Question}
+Choose from the following options. This item will be graded.
+\begin{block}{iClicker Question}
+   Which of these phrases occurs in the Manifesto?
+\end{block}
+\begin{description}
+% W. Churchill
+\item[A\hspace{.2in}$\blacktriangleright$] Success consists of going from failure to failure without loss of enthusiasm.
+% B. Sanders
+\item[B\hspace{.2in}$\blacktriangleright$] Let us wage a moral and political war against the billionaires and corporate leaders, whose policies and greed are destroying the middle class.
+% K. Marx
+\item[C\hspace{.2in}$\blacktriangleright$] Two great hostile camps facing each other: Bourgeoisie and Proletariat.
+% A. Lincoln
+\item[D\hspace{.2in}$\blacktriangleright$] Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+\end{description}
 \end{frame}
 
 \begin{frame}
