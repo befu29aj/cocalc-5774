@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1528223136 "nt-04-marx.tex" "nt-04-marx.pdf" "nt-04-marx" 1528223137
+["pdflatex"] 1528223183 "nt-04-marx.tex" "nt-04-marx.pdf" "nt-04-marx" 1528223184
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -180,16 +180,16 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1506161354 1863403 f3ff9a4253bcb5fb9a9baaf0c572cb01 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1506161382 3853855 dd36e9f5f71c93ae6ae957293c5815c4 ""
-  "nt-04-marx.aux" 1528223137 2465 498da569844c2c8a7b086c40604c2a1f ""
-  "nt-04-marx.nav" 1528223137 1241 96db2808e55362b717b8b5c6aa1f848d ""
-  "nt-04-marx.out" 1528223137 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "nt-04-marx.aux" 1528223184 2465 498da569844c2c8a7b086c40604c2a1f ""
+  "nt-04-marx.nav" 1528223184 1241 96db2808e55362b717b8b5c6aa1f848d ""
+  "nt-04-marx.out" 1528223184 0 d41d8cd98f00b204e9800998ecf8427e ""
   "nt-04-marx.tex" 1528223116 5879 f1435639b5b68fc537017db250fa6689 ""
   "teachbeamer.sty" 1526408317 868 27817204a41db3cee0a63c897edc491a ""
   (generated)
-  "nt-04-marx.aux"
-  "nt-04-marx.toc"
   "nt-04-marx.nav"
-  "nt-04-marx.snm"
-  "nt-04-marx.pdf"
   "nt-04-marx.out"
   "nt-04-marx.log"
+  "nt-04-marx.toc"
+  "nt-04-marx.pdf"
+  "nt-04-marx.aux"
+  "nt-04-marx.snm"
