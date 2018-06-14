@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  14 JUN 2018 20:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  14 JUN 2018 20:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -971,12 +971,8 @@ File: ./davinci_salvator-mundi_grt.jpg Graphic file (type jpg)
 <use ./davinci_salvator-mundi_grt.jpg>
 Package pdftex.def Info: ./davinci_salvator-mundi_grt.jpg used on input line 30
 8.
-(pdftex.def)             Requested size: 160.53816pt x 231.36382pt.
-
-Overfull \vbox (9.82141pt too high) detected at line 308
- []
-
-[16
+(pdftex.def)             Requested size: 151.36275pt x 218.14044pt.
+ [16
 
  <./davinci_salvator-mundi_grt.jpg>]
 Overfull \vbox (3.02644pt too high) detected at line 331
@@ -1006,11 +1002,11 @@ Overfull \vbox (3.02644pt too high) detected at line 331
 \tf@snm=\write8
 \openout8 = `nt-05-genealogy.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 416.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 416.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 418.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 418.
  (./nt-05-genealogy.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 416.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 416.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 418.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 418.
 Package rerunfilecheck Info: File `nt-05-genealogy.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1018,7 +1014,7 @@ Package rerunfilecheck Info: File `nt-05-genealogy.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 416.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 418.
  ) 
 Here is how much of TeX's memory you used:
  16976 strings out of 493029
@@ -1033,7 +1029,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on nt-05-genealogy.pdf (23 pages, 253446 bytes).
+Output written on nt-05-genealogy.pdf (23 pages, 253540 bytes).
 PDF statistics:
  207 PDF objects out of 1000 (max. 8388607)
  160 compressed objects within 2 object streams
