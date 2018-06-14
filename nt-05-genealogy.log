@@ -971,8 +971,12 @@ File: ./davinci_salvator-mundi_grt.jpg Graphic file (type jpg)
 <use ./davinci_salvator-mundi_grt.jpg>
 Package pdftex.def Info: ./davinci_salvator-mundi_grt.jpg used on input line 30
 8.
-(pdftex.def)             Requested size: 137.60313pt x 198.31041pt.
- [16
+(pdftex.def)             Requested size: 160.53816pt x 231.36382pt.
+
+Overfull \vbox (9.82141pt too high) detected at line 308
+ []
+
+[16
 
  <./davinci_salvator-mundi_grt.jpg>]
 Overfull \vbox (3.02644pt too high) detected at line 331
@@ -1029,7 +1033,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on nt-05-genealogy.pdf (23 pages, 253447 bytes).
+Output written on nt-05-genealogy.pdf (23 pages, 253446 bytes).
 PDF statistics:
  207 PDF objects out of 1000 (max. 8388607)
  160 compressed objects within 2 object streams
