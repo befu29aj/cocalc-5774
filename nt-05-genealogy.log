@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  18 JUN 2018 18:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.23)  18 JUN 2018 22:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1017,12 +1017,7 @@ Overfull \hbox (21.8423pt too wide) in paragraph at lines 374--374
 
 [21
 
- <./structable.png>]
-Overfull \hbox (23.56192pt too wide) detected at line 394
-[][][][][]
- []
-
-[22
+ <./structable.png>] [22
 
 ] [23
 
@@ -1034,7 +1029,12 @@ Overfull \hbox (23.56192pt too wide) detected at line 394
 
 ] [27
 
-] [28
+]
+Overfull \hbox (16.61882pt too wide) in paragraph at lines 485--485
+[][]  
+ []
+
+[28
 
 ] [29
 
@@ -1042,7 +1042,12 @@ Overfull \hbox (23.56192pt too wide) detected at line 394
 
 ] [31
 
-] [32
+]
+Overfull \hbox (23.56192pt too wide) detected at line 548
+[][][][][]
+ []
+
+[32
 
 ] [33
 
@@ -1052,8 +1057,7 @@ Overfull \hbox (23.56192pt too wide) detected at line 394
 
 ] [36
 
-]
-[37
+] [37
 
 ] [38
 
@@ -1073,7 +1077,8 @@ Overfull \hbox (23.56192pt too wide) detected at line 394
 
 ] [46
 
-] [47
+]
+[47
 
 ] [48
 
@@ -1081,24 +1086,7 @@ Overfull \hbox (23.56192pt too wide) detected at line 394
 
 ] [50
 
-]
-
-LaTeX Warning: File `./cheshire.jpg' not found on input line 810.
-
-
-! Package pdftex.def Error: File `./cheshire.jpg' not found.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.810 \end{frame}
-                 
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[51
+] [51
 
 ] [52
 
@@ -1118,7 +1106,44 @@ If that doesn't work, type  X <return>  to quit.
 
 ] [60
 
-] [61
+]
+
+LaTeX Warning: File `./cheshire.jpg' not found on input line 962.
+
+
+! Package pdftex.def Error: File `./cheshire.jpg' not found.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.962 \end{frame}
+                 
+Using draft setting for this image.
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[61
+
+] [62
+
+] [63
+
+] [64
+
+] [65
+
+] [66
+
+] [67
+
+] [68
+
+] [69
+
+] [70
+
+] [71
 
 ]
 \tf@nav=\write6
@@ -1130,11 +1155,11 @@ If that doesn't work, type  X <return>  to quit.
 \tf@snm=\write8
 \openout8 = `nt-05-genealogy.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1023.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1023.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1175.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1175.
  (./nt-05-genealogy.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1023.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1023.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1175.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1175.
 
 Package rerunfilecheck Info: File `nt-05-genealogy.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -1143,27 +1168,28 @@ Package rerunfilecheck Info: File `nt-05-genealogy.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1023.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1175.
  ) 
 Here is how much of TeX's memory you used:
- 17162 strings out of 493029
- 329373 string characters out of 6136234
+ 17205 strings out of 493029
+ 329778 string characters out of 6136234
  401974 words of memory out of 5000000
- 20159 multiletter control sequences out of 15000+600000
- 10914 words of font info for 40 fonts, out of 8000000 for 9000
+ 20181 multiletter control sequences out of 15000+600000
+ 11208 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,72p,419b,605s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on nt-05-genealogy.pdf (61 pages, 367143 bytes).
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/symbols/msam10.pfb>
+Output written on nt-05-genealogy.pdf (71 pages, 388476 bytes).
 PDF statistics:
- 471 PDF objects out of 1000 (max. 8388607)
- 381 compressed objects within 4 object streams
- 124 named destinations out of 1000 (max. 500000)
+ 540 PDF objects out of 1000 (max. 8388607)
+ 438 compressed objects within 5 object streams
+ 144 named destinations out of 1000 (max. 500000)
  95 words of extra memory for PDF output out of 10000 (max. 10000000)
 
