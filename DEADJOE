@@ -1,0 +1,22 @@
+
+*** These modified files were found in JOE when it aborted on Mon Jun 18 22:33:54 2018
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/user/cocalc-7719/.git/COMMIT_EDITMSG
+/home/user/cocalc-1429/.git/COMMIT_EDITMSG
+/home/user/cocalc-7719/.git/COMMIT_EDITMSG
+/home/user/cocalc-7719/.git/COMMIT_EDITMSG
+/home/user/cocalc-7719/.git/COMMIT_EDITMSG
+/home/user/cocalc-1429/.git/COMMIT_EDITMSG
+/home/user/cocalc-1429/.git/COMMIT_EDITMSG
+/home/user/jupyter/.git/MERGE_MSG
+/home/user/cocalc-2269/.git/MERGE_MSG
+/home/user/cocalc-2269/.git/MERGE_MSG
+/home/user/cocalc-5774/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
