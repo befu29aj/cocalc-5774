@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1529429838 "nt-05-genealogy.tex" "nt-05-genealogy.pdf" "nt-05-genealogy" 1529429841
+["pdflatex"] 1529432514 "nt-05-genealogy.tex" "nt-05-genealogy.pdf" "nt-05-genealogy" 1529432517
   "/etc/texmf/web2c/texmf.cnf" 1503313332 1464 a4af512f3aaf20a97ae1601d19d817c4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -187,17 +187,17 @@
   "cheshire.jpg" 1529361169 52470 3c1760281c566d2d8695a63d9c2520fe ""
   "davinci_salvator-mundi_grt.jpg" 1529007248 165578 89cf10a6d6dd370733af05f46201039a ""
   "deucalion.jpg" 1529429366 7363875 f1076edef36319774d0e003c9f93bd35 ""
-  "nt-05-genealogy.aux" 1529429840 11205 9359b3ee0f1600b70b3f95462b3d3767 ""
-  "nt-05-genealogy.nav" 1529429840 7472 546fa4a6a49ecb26f82172b4bb5f81e1 ""
-  "nt-05-genealogy.out" 1529429839 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "nt-05-genealogy.tex" 1529429838 51110 0678540e6cb73cbb103327ed5711c275 ""
+  "nt-05-genealogy.aux" 1529432517 11334 964d143fefa0c62f01e963eb4f8c9de4 ""
+  "nt-05-genealogy.nav" 1529432517 7565 7bb0fef41ba3cad57fdcf716662a4416 ""
+  "nt-05-genealogy.out" 1529432515 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "nt-05-genealogy.tex" 1529432511 52486 02d640db7a083b252d39feb5c099e637 ""
   "structable.png" 1527013125 45829 c05aaa765b678d4dee93ba270884edec ""
   "teachbeamer.sty" 1526408317 868 27817204a41db3cee0a63c897edc491a ""
   (generated)
-  "nt-05-genealogy.toc"
   "nt-05-genealogy.snm"
-  "nt-05-genealogy.aux"
   "nt-05-genealogy.out"
-  "nt-05-genealogy.log"
-  "nt-05-genealogy.pdf"
   "nt-05-genealogy.nav"
+  "nt-05-genealogy.pdf"
+  "nt-05-genealogy.toc"
+  "nt-05-genealogy.log"
+  "nt-05-genealogy.aux"
